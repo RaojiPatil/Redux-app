@@ -1,0 +1,381 @@
+{
+  "user": [
+    {
+      "name": "asdaa",
+      "email": "asdaa@gmail.com",
+      "contact": "31354985",
+      "address": "asdd",
+      "id": 2
+    },
+    {
+      "name": "rao",
+      "email": "rao@gmail.com",
+      "contact": "321554651",
+      "address": "surat",
+      "id": 3
+    },
+    {
+      "name": "sanket",
+      "email": "sanket@gmail.com",
+      "contact": "13245644",
+      "address": "surat",
+      "id": 4
+    },
+    {
+      "name": "raoji",
+      "email": "raoji@gmail.com",
+      "contact": "12341",
+      "address": "surat",
+      "id": 5
+    },
+    {
+      "name": "dsad",
+      "email": "dsad@gmail.com",
+      "contact": "21312321",
+      "address": "Surat",
+      "id": 6
+    },
+    {
+      "name": "asd",
+      "email": "asd@gmail.com",
+      "contact": "3216",
+      "address": "surat",
+      "id": 7
+    },
+    {
+      "name": "asdaa",
+      "email": "asdaa@gmail.com",
+      "contact": "31354985",
+      "address": "asdd",
+      "id": 8
+    },
+    {
+      "name": "rao",
+      "email": "rao@gmail.com",
+      "contact": "321554651",
+      "address": "surat",
+      "id": 9
+    },
+    {
+      "name": "sanket",
+      "email": "sanket@gmail.com",
+      "contact": "13245644",
+      "address": "surat",
+      "id": 10
+    },
+    {
+      "name": "raoji",
+      "email": "raoji@gmail.com",
+      "contact": "12341",
+      "address": "surat",
+      "id": 11
+    },
+    {
+      "name": "dsad",
+      "email": "dsad@gmail.com",
+      "contact": "21312321",
+      "address": "Surat",
+      "id": 12
+    },
+    {
+      "name": "aa",
+      "email": "aa",
+      "contact": "123",
+      "address": "surat",
+      "img": "C:\\fakepath\\Screenshot 2023-02-23 152504.png",
+      "id": 13
+    },
+    {
+      "name": "asd",
+      "email": "asd",
+      "contact": "21",
+      "address": "asd",
+      "img": "C:\\fakepath\\Screenshot 2023-02-24 172856.png",
+      "id": 14
+    },
+    {
+      "name": "Sanket",
+      "email": "Sanket@gmail.com",
+      "contact": "13234654",
+      "address": "Surat",
+      "img": "",
+      "id": 15
+    },
+    {
+      "name": "Raoji",
+      "email": "Raoji@gmail.com",
+      "contact": "21354123",
+      "address": "Surat",
+      "img": "",
+      "id": 16
+    },
+    {
+      "name": "R S Patil",
+      "email": "raoji@gmail.com",
+      "contact": "213546255",
+      "address": "Suart",
+      "img": "",
+      "id": 17
+    },
+    {
+      "name": "Akshayq",
+      "email": "shobhit@digitalapple.in",
+      "password": "123456",
+      "number": "8600684863",
+      "id": 20
+    },
+    {
+      "name": "raoji",
+      "email": "raoji@gmail.com",
+      "contact": "12341",
+      "address": "surat",
+      "id": 21
+    },
+    {
+      "name": "dsad",
+      "email": "dsad@gmail.com",
+      "contact": "21312321",
+      "address": "Surat",
+      "id": 22
+    },
+    {
+      "name": "aa",
+      "email": "aa",
+      "contact": "123",
+      "address": "surat",
+      "img": "C:\\fakepath\\Screenshot 2023-02-23 152504.png",
+      "id": 23
+    },
+    {
+      "name": "asd",
+      "email": "asd",
+      "contact": "21",
+      "address": "asd",
+      "img": "C:\\fakepath\\Screenshot 2023-02-24 172856.png",
+      "id": 24
+    },
+    {
+      "name": "Sanket",
+      "email": "Sanket@gmail.com",
+      "contact": "13234654",
+      "address": "Surat",
+      "img": "",
+      "id": 25
+    },
+    {
+      "name": "Raoji",
+      "email": "Raoji@gmail.com",
+      "contact": "21354123",
+      "address": "Surat",
+      "img": "",
+      "id": 26
+    },
+    {
+      "name": "R S Patil",
+      "email": "raoji@gmail.com",
+      "contact": "213546255",
+      "address": "Suart",
+      "img": "",
+      "id": 27
+    },
+    {
+      "name": "asdaa",
+      "email": "asdaa@gmail.com",
+      "contact": "31354985",
+      "address": "asdd",
+      "id": 28
+    },
+    {
+      "name": "rao",
+      "email": "rao@gmail.com",
+      "contact": "321554651",
+      "address": "surat",
+      "id": 30
+    },
+    {
+      "name": "sanket",
+      "email": "sanket@gmail.com",
+      "contact": "13245644",
+      "address": "surat",
+      "id": 31
+    },
+    {
+      "name": "raoji",
+      "email": "raoji@gmail.com",
+      "contact": "12341",
+      "address": "surat",
+      "id": 32
+    },
+    {
+      "name": "dsad",
+      "email": "dsad@gmail.com",
+      "contact": "21312321",
+      "address": "Surat",
+      "id": 33
+    },
+    {
+      "name": "asd",
+      "email": "asd@gmail.com",
+      "contact": "3216",
+      "address": "surat",
+      "id": 34
+    },
+    {
+      "name": "asdaa",
+      "email": "asdaa@gmail.com",
+      "contact": "31354985",
+      "address": "asdd",
+      "id": 35
+    },
+    {
+      "name": "rao",
+      "email": "rao@gmail.com",
+      "contact": "321554651",
+      "address": "surat",
+      "id": 36
+    },
+    {
+      "name": "sanket",
+      "email": "sanket@gmail.com",
+      "contact": "13245644",
+      "address": "surat",
+      "id": 37
+    },
+    {
+      "name": "raoji",
+      "email": "raoji@gmail.com",
+      "contact": "12341",
+      "address": "surat",
+      "id": 38
+    },
+    {
+      "name": "dsad",
+      "email": "dsad@gmail.com",
+      "contact": "21312321",
+      "address": "Surat",
+      "id": 39
+    },
+    {
+      "name": "aa",
+      "email": "aa",
+      "contact": "123",
+      "address": "surat",
+      "img": "C:\\fakepath\\Screenshot 2023-02-23 152504.png",
+      "id": 40
+    },
+    {
+      "name": "asd",
+      "email": "asd",
+      "contact": "21",
+      "address": "asd",
+      "img": "C:\\fakepath\\Screenshot 2023-02-24 172856.png",
+      "id": 41
+    },
+    {
+      "name": "Sanket",
+      "email": "Sanket@gmail.com",
+      "contact": "13234654",
+      "address": "Surat",
+      "img": "",
+      "id": 42
+    },
+    {
+      "name": "Raoji",
+      "email": "Raoji@gmail.com",
+      "contact": "21354123",
+      "address": "Surat",
+      "img": "",
+      "id": 43
+    },
+    {
+      "name": "R S Patil",
+      "email": "raoji@gmail.com",
+      "contact": "213546255",
+      "address": "Suart",
+      "img": "",
+      "id": 44
+    },
+    {
+      "name": "Akshayq",
+      "email": "shobhit@digitalapple.in",
+      "password": "123456",
+      "number": "8600684863",
+      "id": 45
+    },
+    {
+      "name": "raoji",
+      "email": "raoji@gmail.com",
+      "contact": "12341",
+      "address": "surat",
+      "id": 46
+    },
+    {
+      "name": "dsad",
+      "email": "dsad@gmail.com",
+      "contact": "21312321",
+      "address": "Surat",
+      "id": 47
+    },
+    {
+      "name": "aa",
+      "email": "aa",
+      "contact": "123",
+      "address": "surat",
+      "img": "C:\\fakepath\\Screenshot 2023-02-23 152504.png",
+      "id": 48
+    },
+    {
+      "name": "asd",
+      "email": "asd",
+      "contact": "21",
+      "address": "asd",
+      "img": "C:\\fakepath\\Screenshot 2023-02-24 172856.png",
+      "id": 49
+    },
+    {
+      "name": "Sanket",
+      "email": "Sanket@gmail.com",
+      "contact": "13234654",
+      "address": "Surat",
+      "img": "",
+      "id": 50
+    },
+    {
+      "name": "Raoji",
+      "email": "Raoji@gmail.com",
+      "contact": "21354123",
+      "address": "Surat",
+      "img": "",
+      "id": 51
+    },
+    {
+      "name": "R S Patil",
+      "email": "raoji@gmail.com",
+      "contact": "213546255",
+      "address": "Suart",
+      "img": "",
+      "id": 52
+    },
+    {
+      "name": "",
+      "email": "raojipatil22@gmail.com",
+      "password": "Patil@123",
+      "number": "",
+      "id": 53
+    },
+    {
+      "name": "",
+      "email": "raojipatil22@gmail.com",
+      "password": "Patil@123",
+      "number": "",
+      "id": 54
+    },
+    {
+      "name": "asdad",
+      "email": "raojipatil22@gmail.com",
+      "password": "Patil@123",
+      "number": "12321",
+      "id": 55
+    }
+  ]
+}
